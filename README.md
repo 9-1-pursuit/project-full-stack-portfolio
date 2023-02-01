@@ -116,6 +116,7 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 - Visually allow for interacting with a second resource from the front-end.
 - Allow for a list of "favorite" resources that are stored locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 - Make your application responsive to different kinds of devices.
+- Use ChatGPT to create seed information for your database. (Include a screenshot or screenshots of the prompts in your README.md)
 
 ## Getting started
 
