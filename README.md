@@ -47,6 +47,9 @@ In addition to attaining at least 26 points, you must also complete one or more 
 1. You must make a way for a user to "destroy" a single resource as part of your front-end application.
 1. All of your front-end routes must follow a RESTful pattern, as you learned in your class.
 
+#### Instructor Questions
+You will have 5 tokens which can be redeemed for questions to the instructors during this sprint. Clarifying questions about the project instructions and requirements are not included.
+
 #### Interview requirements
 
 21. In a meeting with an instructor or volunteer, you should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
