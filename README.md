@@ -57,7 +57,7 @@ In addition to attaining at least 26 points, you must also complete one or more 
 You will have 5 tokens which can be redeemed for questions to the instructors during this sprint. Clarifying questions about the project instructions and requirements are not included.
 
 
-### Additional features or tasks
+### Required Additional features or tasks
 
 Each Fellow must also define _one or more_ additional features or tasks they would like to add to their application. These features or tasks must be approved by an instructor and should make a meaningful improvement to your application. Below is a list of example features that could apply to any application. You may choose from the list below or come up with features or tasks that are more relevant to your specific application.
 
@@ -85,7 +85,7 @@ Then, follow the specifications above to create your application. Work with your
 
 If you are struggling to find an idea, you are welcome to create an [Online Store App](./README_STORE_APP.md).
 
-### Project rubric
+## Project rubric
 
 In addition to the specific requirements, you should aim to score _Proficient_ on all of the criteria listed below. Each rating on the scale, from Developing to Exemplary, is worth 1 point.
 
