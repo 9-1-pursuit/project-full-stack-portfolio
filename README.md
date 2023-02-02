@@ -56,6 +56,34 @@ In addition to attaining at least 26 points, you must also complete one or more 
 
 You will have 5 tokens which can be redeemed for questions to the instructors during this sprint. Clarifying questions about the project instructions and requirements are not included.
 
+
+### Additional features or tasks
+
+Each Fellow must also define _one or more_ additional features or tasks they would like to add to their application. These features or tasks must be approved by an instructor and should make a meaningful improvement to your application. Below is a list of example features that could apply to any application. You may choose from the list below or come up with features or tasks that are more relevant to your specific application.
+
+> **Note:** These features _do count_ for the rubric category "technical innovation", detailed above.
+
+- Use [ChatGPT](https://chat.openai.com/auth/login) to create seed data for your database. (Include a screenshot or screenshots of the prompts in your README.md)
+- Use [express-validator](https://www.npmjs.com/package/express-validator) on your back-end to validate incoming data.
+- Create custom middleware as part of your back-end application that validates for particular values when a resource is being created or updated.
+- Add a one-to-many table relationship to your database.
+- Display errors to your user when they incorrectly fill out a form attempting to create or update a resource.
+- Use query parameters to filter your resource by different fields or qualities.
+- When viewing all resources, break up your resources visually onto multiple pages. (pagination)
+- Allow for a list of "favorite" resources that are stored locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
+- Learn and use a [React Library](https://www.simform.com/blog/react-libraries/) and/or [Component Library](https://technostacks.com/blog/react-component-libraries/) to enhance your application.
+- Learn and use a [CSS Library](https://blog.logrocket.com/top-10-react-ui-libraries-kits/) to design & make your application responsive.
+
+## Getting started
+
+**DO NOT FORK this repository.** Instead, create your front-end and back-end repositories on GitHub and submit the URLs directly to Canvas.
+
+Then, follow the specifications above to create your application. Work with your instructors to approve your features before you begin working on them.
+
+## Store App
+
+If you are struggling to find an idea, you are welcome to create an [Online Store App](./README_STORE_APP.md).
+
 ### Project rubric
 
 In addition to the specific requirements, you should aim to score _Proficient_ on all of the criteria listed below. Each rating on the scale, from Developing to Exemplary, is worth 1 point.
@@ -105,29 +133,4 @@ In addition to the specific requirements, you should aim to score _Proficient_ o
 | Proficient | 2      | The student has incorporated multiple new technologies into their application or has built a number of features not previously seen in the classroom.  |
 | Exemplary  | 3      | The student has incorporated multiple new technologies into their application and has built a number of features not previously seen in the classroom. |
 
-### Additional features or tasks
 
-Each Fellow must also define _one or more_ additional features or tasks they would like to add to their application. These features or tasks must be approved by an instructor and should make a meaningful improvement to your application. Below is a list of example features that could apply to any application. You may choose from the list below or come up with features or tasks that are more relevant to your specific application.
-
-> **Note:** These features _do count_ for the rubric category "technical innovation", detailed above.
-
-- Use [ChatGPT](https://chat.openai.com/auth/login) to create seed data for your database. (Include a screenshot or screenshots of the prompts in your README.md)
-- Use [express-validator](https://www.npmjs.com/package/express-validator) on your back-end to validate incoming data.
-- Create custom middleware as part of your back-end application that validates for particular values when a resource is being created or updated.
-- Add a one-to-many table relationship to your database.
-- Display errors to your user when they incorrectly fill out a form attempting to create or update a resource.
-- Use query parameters to filter your resource by different fields or qualities.
-- When viewing all resources, break up your resources visually onto multiple pages. (pagination)
-- Allow for a list of "favorite" resources that are stored locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
-- Learn and use a [React Library](https://www.simform.com/blog/react-libraries/) and/or [Component Library](https://technostacks.com/blog/react-component-libraries/) to enhance your application.
-- Learn and use a [CSS Library](https://blog.logrocket.com/top-10-react-ui-libraries-kits/) to design & make your application responsive.
-
-## Getting started
-
-**DO NOT FORK this repository.** Instead, create your front-end and back-end repositories on GitHub and submit the URLs directly to Canvas.
-
-Then, follow the specifications above to create your application. Work with your instructors to approve your features before you begin working on them.
-
-## Store App
-
-If you are struggling to find an idea, you are welcome to create an [Online Store App](./README_STORE_APP.md).
