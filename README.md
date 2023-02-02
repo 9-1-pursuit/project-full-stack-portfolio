@@ -120,7 +120,7 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 - When viewing all resources, break up your resources visually onto multiple pages. (pagination)
 - Allow for a list of "favorite" resources that are stored locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 - Make your application responsive to different kinds of devices.
-- Learn and use a [React Library](https://www.simform.com/blog/react-libraries/) to enhance your application.
+- Learn and use a [React Library](https://www.simform.com/blog/react-libraries/) and/or [Component Library](https://technostacks.com/blog/react-component-libraries/) to enhance your application.
 - Learn and use a [CSS Library](https://blog.logrocket.com/top-10-react-ui-libraries-kits/) to design & make your application responsive.
 
 ## Getting started
