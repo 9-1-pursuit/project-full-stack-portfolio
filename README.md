@@ -111,16 +111,16 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 
 > **Note:** These features _do count_ for the rubric category "technical innovation", detailed above.
 
-- Display errors to your user when they incorrectly fill out a form attempting to create or update a resource.
-- Add a one-to-many table relationship to your database.
-- Create middleware as part of your back-end application that validates for particular values when a resource is being created or updated.
+- Use [ChatGPT](https://chat.openai.com/auth/login) to create seed data for your database. (Include a screenshot or screenshots of the prompts in your README.md)
 - Use [express-validator](https://www.npmjs.com/package/express-validator) on your back-end to validate incoming data.
+- Create custom middleware as part of your back-end application that validates for particular values when a resource is being created or updated.
+- Add a one-to-many table relationship to your database.
+- Display errors to your user when they incorrectly fill out a form attempting to create or update a resource.
 - Use query parameters to filter your resource by different fields or qualities.
-- When viewing all resources, break up your resources visually onto multiple pages.
-- Visually allow for interacting with a second resource from the front-end.
+- When viewing all resources, break up your resources visually onto multiple pages. (pagination)
 - Allow for a list of "favorite" resources that are stored locally through [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage).
 - Make your application responsive to different kinds of devices.
-- Use [ChatGPT](https://chat.openai.com/auth/login) to create seed data for your database. (Include a screenshot or screenshots of the prompts in your README.md)
+
 
 ## Getting started
 
