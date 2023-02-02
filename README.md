@@ -52,7 +52,7 @@ In addition to attaining at least 26 points, you must also complete one or more 
 1. In a meeting with an instructor or volunteer, you should be able to demonstrate a front-end feature and describe the code in technical terms.
 1. In a meeting with an instructor or volunteer, you should be able to demonstrate a back-end feature and describe the code in technical terms.
 
-#### Instructor Questions
+### Instructor Questions
 
 You will have 5 tokens which can be redeemed for questions to the instructors during this sprint. Clarifying questions about the project instructions and requirements are not included.
 
