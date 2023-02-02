@@ -114,6 +114,7 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 - Display errors to your user when they incorrectly fill out a form attempting to create or update a resource.
 - Add a one-to-many table relationship to your database.
 - Create middleware as part of your back-end application that validates for particular values when a resource is being created or updated.
+- Use [express-validator](https://www.npmjs.com/package/express-validator) on your back-end to validate incoming data.
 - Use query parameters to filter your resource by different fields or qualities.
 - When viewing all resources, break up your resources visually onto multiple pages.
 - Visually allow for interacting with a second resource from the front-end.
