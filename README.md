@@ -134,4 +134,17 @@ In addition to the specific requirements, you should aim to score _Proficient_ o
 | Proficient | 2      | The student has incorporated multiple new technologies into their application or has built a number of features not previously seen in the classroom.  |
 | Exemplary  | 3      | The student has incorporated multiple new technologies into their application and has built a number of features not previously seen in the classroom. |
 
+## Resources
 
+Use the resources below to deploy your application.
+
+### Front-end Deployment
+
+1. [Netlify Deployment Instructions](https://github.com/9-1-pursuit/guide-deployment/tree/main/netlify-create-react-app)
+1. [Netlify Deployment Video](https://drive.google.com/file/d/1am3ljqxJTyvPQ5hzlsaU7o_bf6-lA4UK/view?usp=sharing)
+
+### Back-end Deployment
+
+1. [Render.com Deployment Instructions](https://github.com/9-1-pursuit/guide-deployment/tree/main/render-express-postgres)
+1. [Render.com Deployment Video Part 1, Express](https://drive.google.com/file/d/1JefmByjhsh8zoLwzpwdv-Hn9Wg4ezaOB/view?usp=sharing)
+1. [Render.com Deployment Video Part 2, PostgreSQL](https://drive.google.com/file/d/1_egu17vjEOjk6Hm94-yPTB2KYDGrISLq/view?usp=sharing)
