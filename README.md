@@ -81,7 +81,7 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 
 Then, follow the specifications above to create your application. Work with your instructors to approve your features before you begin working on them.
 
-## Store App
+## Alternative App Option - Store App
 
 If you are struggling to find an idea, you are welcome to create an [Online Store App](./README_STORE_APP.md).
 
