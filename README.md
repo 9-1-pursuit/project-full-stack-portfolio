@@ -48,7 +48,7 @@ In addition to attaining at least 26 points, you must also complete one or more 
 1. All of your front-end routes must follow a RESTful pattern, as you learned in your class.
 
 #### Interview requirements
-21. In a meeting with an instructor or volunteer, you should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
+20. In a meeting with an instructor or volunteer, you should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
 1. In a meeting with an instructor or volunteer, you should be able to demonstrate a front-end feature and describe the code in technical terms.
 1. In a meeting with an instructor or volunteer, you should be able to demonstrate a back-end feature and describe the code in technical terms.
 
