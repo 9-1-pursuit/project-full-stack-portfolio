@@ -77,7 +77,7 @@ Each Fellow must also define _one or more_ additional features or tasks they wou
 
 ## Getting started
 
-**DO NOT FORK this repository.** Instead, create your front-end and back-end repositories on GitHub and submit the URLs directly to Canvas.
+**DO NOT FORK this repository.** Instead, create your front-end and back-end repositories on GitHub.
 
 Then, follow the specifications above to create your application. Work with your instructors to approve your features before you begin working on them.
 
