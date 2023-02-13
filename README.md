@@ -48,6 +48,7 @@ In addition to attaining at least 26 points, you must also complete one or more 
 1. All of your front-end routes must follow a RESTful pattern, as you learned in your class.
 
 #### Interview requirements
+
 20. In a meeting with an instructor or volunteer, you should be able to describe the application's theme and purpose and relate your application to your interests or personal narrative.
 1. In a meeting with an instructor or volunteer, you should be able to demonstrate a front-end feature and describe the code in technical terms.
 1. In a meeting with an instructor or volunteer, you should be able to demonstrate a back-end feature and describe the code in technical terms.
@@ -55,7 +56,6 @@ In addition to attaining at least 26 points, you must also complete one or more 
 ### Instructor Questions
 
 You will have 5 tokens which can be redeemed for questions to the instructors during this sprint. Clarifying questions about the project instructions and requirements are not included.
-
 
 ### Required Additional features or tasks
 
@@ -148,3 +148,7 @@ Use the resources below to deploy your application.
 1. [Render.com Deployment Instructions](https://github.com/9-1-pursuit/guide-deployment/tree/main/render-express-postgres)
 1. [Render.com Deployment Video Part 1, Express](https://drive.google.com/file/d/1JefmByjhsh8zoLwzpwdv-Hn9Wg4ezaOB/view?usp=sharing)
 1. [Render.com Deployment Video Part 2, PostgreSQL](https://drive.google.com/file/d/1_egu17vjEOjk6Hm94-yPTB2KYDGrISLq/view?usp=sharing)
+
+### Extra Resources
+
+[Seeding Images Using Cloudinary.com Video](https://drive.google.com/file/d/1RNs4cFcqdAPM4Lqt-eJTfk8PADDUvQY0/view)
