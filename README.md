@@ -11,7 +11,7 @@ This project will:
 
 ## Success criteria
 
-47 points can be received as part of this project. A minimum of 26 points must be attained to pass this project. These points are spread across specific features and requirements as well as a rubric. A list of each feature and the rubric is included below.
+37 points can be received as part of this project. A minimum of 26 points must be attained to pass this project. These points are spread across specific features and requirements as well as a rubric. A list of each feature and the rubric is included below.
 
 In addition to attaining at least 26 points, you must also complete one or more features or tasks decided on by you and your instructor(s). These additional features and tasks are explained in more detail below.
 
